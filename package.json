@@ -1,0 +1,32 @@
+{
+  "name": "haneefqid",
+  "version": "1.0.1",
+  "description": "My personal NPM business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneefqid/haneefcard2.git"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Hanifah A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haneefqid/haneefcard2/issues"
+  },
+  "homepage": "https://github.com/haneefqid/haneefcard2#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.1"
+  }
+}
